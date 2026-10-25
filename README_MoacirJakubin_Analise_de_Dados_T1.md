@@ -1,6 +1,6 @@
 # Instruções de execução – Miniprojeto Varejo
 
-**Aluno:*Moacir Jakubin* Nome do Aluno | **Turma:*QA ADPY 2026/2 7* Analise_de_Dados_T1
+**Aluno:** Moacir Jakubin | **Turma:** Analise_de_Dados_T1
 
 ## No VS Code
 

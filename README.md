@@ -10,7 +10,7 @@ descritivas do **número de filhos** dos clientes, explora agrupamentos e gera u
 ## Estrutura do repositório
 
 ```
-Miniprojeto_NomeAluno_Analise_de_Dados_T1/
+Miniprojeto_MoacirJakubin_Analise_de_Dados_T1/
 ├── Miniprojeto_Varejo.py              # script principal (Sprints 1 a 5)
 ├── Varejo.csv                         # base baixada do Kaggle (você adiciona)
 ├── df_limpo.csv                       # base tratada (gerada pelo script)
@@ -19,7 +19,7 @@ Miniprojeto_NomeAluno_Analise_de_Dados_T1/
 ├── requirements.txt
 ├── README.md                          # este arquivo
 ├── README_NomeDoAluno_Turma.md        # instruções de execução
-└── GUIA_GIT.md                        # roteiro de commits (Sprint 6)
+                 
 ```
 
 ## Como executar
@@ -39,7 +39,6 @@ python Miniprojeto_Varejo.py caminho/Varejo.csv
 | 3 | Nulos, duplicatas e inconsistências; regra do identificador de compra |
 | 4 | Estatísticas de **número de filhos** + agrupamentos com `groupby()` e `pivot_table()` |
 | 5 | Relatório final no terminal e geração de `relatorio_insights.md` |
-| 6 | Versionamento no GitHub (ver `GUIA_GIT.md`) |
 
 ## Decisões de limpeza (e justificativas)
 
@@ -84,4 +83,4 @@ e reproduzível.
 
 ## Autor
 
-Nome do Aluno – Turma Analise_de_Dados_T1
+Moacir Jakubin – Turma Analise_de_Dados_T1
