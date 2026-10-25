@@ -1,7 +1,7 @@
 """
 Mini-Projeto Avaliativo - Modulo 1 - Analise de Dados com Python
 Analise Exploratoria (AED) da base Varejo
-Aluno: SEU NOME COMPLETO | Turma: Analise_de_Dados_T1
+Aluno: Moacir Jakubin | Turma: Analise_de_Dados_T1
 
 Como executar:  python Miniprojeto_Varejo.py
 (o arquivo da base deve estar na mesma pasta do script)
